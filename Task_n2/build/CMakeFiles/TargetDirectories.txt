@@ -1,0 +1,6 @@
+/home/kira/Kira Maleeva/453501/ОАиП/LR6/Task_n2/build/CMakeFiles/test.dir
+/home/kira/Kira Maleeva/453501/ОАиП/LR6/Task_n2/build/CMakeFiles/Task_2.dir
+/home/kira/Kira Maleeva/453501/ОАиП/LR6/Task_n2/build/CMakeFiles/Task_2_ASan.dir
+/home/kira/Kira Maleeva/453501/ОАиП/LR6/Task_n2/build/CMakeFiles/Task_2_TSan.dir
+/home/kira/Kira Maleeva/453501/ОАиП/LR6/Task_n2/build/CMakeFiles/edit_cache.dir
+/home/kira/Kira Maleeva/453501/ОАиП/LR6/Task_n2/build/CMakeFiles/rebuild_cache.dir

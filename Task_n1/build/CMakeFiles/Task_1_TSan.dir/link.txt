@@ -1,0 +1,1 @@
+/usr/bin/c++ -fsanitize=thread -fno-omit-frame-pointer CMakeFiles/Task_1_TSan.dir/Task_1.cpp.o -o Task_1_TSan 
